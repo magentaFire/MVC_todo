@@ -1,2 +1,2 @@
-# MVC_todo
+# Vanilla MVC
 Vanilla JS project to learn MVC pattern
